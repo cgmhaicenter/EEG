@@ -4,7 +4,7 @@ Published: 31JULY2020 Version: 1.0.0
 
 # Background
 
-Whold time EEG recording with patients in PICU (pediatric ICU)
+Whold time EEG recording of patients in PICU (pediatric ICU) whoh had neurological disorder
 
 # Data Description
 
