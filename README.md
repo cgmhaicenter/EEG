@@ -1,4 +1,4 @@
-# CGMH Knee EEG-in-Pediatric-Epilepsy
+# CGMH pediatric EEG with epilepsy
 
 Published: 31JULY2020 Version: 1.0.0
 
